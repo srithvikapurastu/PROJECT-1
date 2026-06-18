@@ -2,12 +2,6 @@ import time
 import random
 import os
 
-# ================================================================
-#   ok so i spent like 3 hours on this lol
-#   RAZE - my first ever AI project
-#   srith | decodelabs internship | batch 2026
-#   ps. dont judge my code im still learning 😭
-# ================================================================
 
 # -- colors cuz why not make it look cool --
 R  = '\033[91m'   # red
@@ -70,11 +64,10 @@ brain = {
     "who made you" : [
         "a legend called srith built me from scratch 💀🔥\ntook him forever but here we are ⚡",
         "srith did. one keyboard. one brain. no sleep 😭⚡",
-        "srith from decodelabs batch 2026 🔥\nthe real one ⚡",
     ],
     "how old are you" : [
         "literally days old 💀 im a baby AI",
-        "born during decodelabs internship 2026 ⚡\nstill figuring life out ngl",
+        "still figuring life out ngl",
     ],
     "are you real" : [
         "real enough to roast you 😭⚡",
@@ -103,15 +96,15 @@ brain = {
 
     # -- ai knowledge --
     "what is ai" : [
-        "ok so AI is basically machines acting smart\nlearnt this day 1 at decodelabs 😭🧠⚡",
+        "ok so AI is basically machines acting smart",
         "artificial intelligence = making computers think\nyou're literally talking to one rn 🔥",
     ],
     "what is python" : [
-        "the language srith used to build me 🐍🔥\npretty powerful ngl",
+        "pretty powerful ngl",
         "python = weapon of choice for AI engineers\nalso what runs my entire existence 💀⚡",
     ],
     "what is machine learning" : [
-        "ML = AI that learns from data\nim rule-based so i dont learn yet 😭\nbut project 2 might change that 👀🔥",
+        "ML = AI that learns from data\nim rule-based so i dont learn yet 😭",
     ],
     "what is deep learning" : [
         "neural networks basically\nlike a brain but electric ⚡🧠\nway above my level rn ngl 💀",
@@ -125,26 +118,11 @@ brain = {
     "what is github" : [
         "where real engineers keep their code 💻🔥\nsrith pushed me there after a LOT of struggle 😭⚡",
     ],
-    "what is decodelabs" : [
-        "where srith is doing his internship rn 🔥\nwhere AI engineers are born basically ⚡💡",
-        "the place that made srith build me 💀🔥",
-    ],
 
     # -- project stuff --
     "what is project 1" : [
         "thats literally me 💀\nyoure talking to project 1 rn ⚡",
         "rule based chatbot\nalso known as RAZE\nalso known as ME 😭🔥",
-    ],
-    "what is project 2" : [
-        "classified 🔒\nnot even i have clearance for that 💀",
-        "idk man srith hasnt told me yet 😭👀",
-    ],
-    "will i pass"  : [
-        "bro you built RAZE AND pushed to github\nyou already passed in my eyes 🔥⚡",
-        "if the judges have taste? yes 💀⚡",
-    ],
-    "am i doing good" : [
-        "you built an AI from scratch\nand youre asking if youre doing good?\nyeah. you are 🔥⚡",
     ],
 
     # -- relatable student stuff --
@@ -195,10 +173,6 @@ brain = {
         "you typed roast me\nto a chatbot YOU built yourself\nthe roast literally writes itself 😭💀⚡",
         "you came to your own creation for validation\nthat's... actually kinda sad bestie 😂⚡",
     ],
-    "compliment me" : [
-        "you built an AI project from scratch\nduring an internship\nwhile 1000 others probably copied\nyoure built different 🔥⚡",
-        "real one. no cap ⚡☠️",
-    ],
     "sing for me" : [
         "i only know one song\nwhile True: 🎵\n    keep going 🎵\n    dont stop 🎵\n    break only on exit 🎵 💀⚡",
     ],
@@ -228,7 +202,7 @@ brain = {
         "i know what i know\nand i know that im RAZE 🔥☠️",
     ],
     "what are your limits" : [
-        "i only know what srith taught me 😭\nbut project 2 will change that 👀⚡",
+        "i only know what srith taught me 😭",
         "exact matches only rn\nno ML yet\nbut watch out for RAZE 4.0 🔥",
     ],
     "can you learn" : [
